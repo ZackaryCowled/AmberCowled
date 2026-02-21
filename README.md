@@ -1,28 +1,40 @@
-# Hi, I'm Amber 👋
+# Hi, I'm Amber 👋                                                                                                                                                           
+                                                                                                                                                                               
+  **Full-Stack Developer** | Sydney, NSW, Australia                                                                                                                            
+                                                                                                                                                                               
+  Building modern web applications with React, Next.js, and TypeScript.                                                                                                        
 
-**Full-Stack Developer** | Sydney, NSW, Australia
+  ## 🚀 Featured Projects                                                                                                                                                      
+                                                                                                                                                                               
+  ### [Pointwise](https://pointwise-sepia.vercel.app/)
 
-Building modern web applications with React, Next.js, and TypeScript.
+  Full-stack productivity dashboard with gamification, real-time collaboration via Ably, and a complete social layer with friends, project invites, and join requests.
 
-## 🚀 Featured Project
+  - **Tech Stack:** Next.js 16, React 19, TypeScript, MongoDB, Prisma, Ably, Tailwind CSS v4
+  - **Live Demo:** [pointwise-sepia.vercel.app](https://pointwise-sepia.vercel.app/)
+  - **Repository:** [github.com/AmberCowled/pointwise](https://github.com/AmberCowled/pointwise)
 
-**[Pointwise](https://pointwise-sepia.vercel.app/)** - Full-stack productivity dashboard with gamification
+  ### [ERTK](https://github.com/AmberCowled/ertk)
 
-- **Tech Stack:** Next.js 16, React 19, TypeScript, MongoDB, Prisma
-- **Live Demo:** [pointwise-sepia.vercel.app](https://pointwise-sepia.vercel.app/)
-- **Repository:** [github.com/AmberCowled/pointwise](https://github.com/AmberCowled/pointwise)
+  TypeScript code generation tool that eliminates RTK Query and Next.js App Router boilerplate. Define endpoints once, get fully-typed API hooks, Redux store config, route
+  handlers, and cache invalidation utilities generated automatically.
 
-## 🛠️ Tech Stack
+  - **Key Features:** Watch mode with smart rebuilds, Zod/Valibot/ArkType validation, declarative optimistic updates, pluggable auth
+  - **Repository:** [github.com/AmberCowled/ertk](https://github.com/AmberCowled/ertk)
+  - **Install:** `npm install ertk`
 
-**Frontend:** React 19, Next.js 16, TypeScript 5, Tailwind CSS v4  
-**Backend:** Node.js, Next.js API Routes, RESTful APIs, NextAuth.js  
-**Database:** MongoDB, Prisma ORM  
-**Tools:** Git, GitHub, Vercel, ESLint, Prettier, Vitest
+  ## 🛠️  Tech Stack
 
-## 📫 Connect
+  - **Frontend:** React 19, Next.js 16, TypeScript 5, Tailwind CSS v4
+  - **Backend:** Node.js, Next.js API Routes, RESTful APIs, NextAuth.js
+  - **Real-Time:** Ably
+  - **Database:** MongoDB, Prisma ORM
+  - **Tools:** Git, GitHub, Vercel, Biome
 
-📧 amber.cowled97@gmail.com | 🌐 [Portfolio](https://pointwise-sepia.vercel.app/) | 💻 [GitHub](https://github.com/AmberCowled)
+  ## 📫 Connect
 
----
+  📧 amber.cowled97@gmail.com | 🌐 [Portfolio](https://pointwise-sepia.vercel.app/) | 💻 [GitHub](https://github.com/AmberCowled)
 
-_Always learning, always building._ 🚀
+  ---
+
+  _Always learning, always building._ 🚀
