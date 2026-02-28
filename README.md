@@ -11,7 +11,7 @@
   Full-stack productivity dashboard with gamification, real-time collaboration via Ably, and a complete social layer with friends, project invites, and join requests.
 
   - **Tech Stack:** Next.js 16, React 19, TypeScript, MongoDB, Prisma, Ably, Tailwind CSS v4
-  - **Live Demo:** [pointwise-sepia.vercel.app](https://pointwise.dev/)
+  - **Live Demo:** [pointwise.dev](https://pointwise.dev/)
   - **Repository:** [github.com/AmberCowled/pointwise](https://github.com/AmberCowled/pointwise)
 
   ### [ERTK](https://github.com/AmberCowled/ertk)
