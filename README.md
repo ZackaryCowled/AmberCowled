@@ -6,12 +6,12 @@
 
   ## 🚀 Featured Projects                                                                                                                                                      
                                                                                                                                                                                
-  ### [Pointwise](https://pointwise-sepia.vercel.app/)
+  ### [Pointwise](https://pointwise.dev/)
 
   Full-stack productivity dashboard with gamification, real-time collaboration via Ably, and a complete social layer with friends, project invites, and join requests.
 
   - **Tech Stack:** Next.js 16, React 19, TypeScript, MongoDB, Prisma, Ably, Tailwind CSS v4
-  - **Live Demo:** [pointwise-sepia.vercel.app](https://pointwise-sepia.vercel.app/)
+  - **Live Demo:** [pointwise-sepia.vercel.app](https://pointwise.dev/)
   - **Repository:** [github.com/AmberCowled/pointwise](https://github.com/AmberCowled/pointwise)
 
   ### [ERTK](https://github.com/AmberCowled/ertk)
@@ -33,7 +33,7 @@
 
   ## 📫 Connect
 
-  📧 amber.cowled97@gmail.com | 🌐 [Portfolio](https://pointwise-sepia.vercel.app/) | 💻 [GitHub](https://github.com/AmberCowled)
+  📧 amber.cowled97@gmail.com | 🌐 [Portfolio](https://pointwise.dev/) | 💻 [GitHub](https://github.com/AmberCowled)
 
   ---
 
