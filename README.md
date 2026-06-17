@@ -1,6 +1,6 @@
-# Hi, I'm Amber 👋                                                                                                                                                           
+# Hi, I'm Zack 👋                                                                                                                                                           
                                                                                                                                                                                
-  **Full-Stack Developer** | Sydney, NSW, Australia                                                                                                                            
+  **Full-Stack Developer / Game Programmer** | Coffs Harbour, NSW, Australia                                                                                                                            
                                                                                                                                                                                
   Building modern web applications with React, Next.js, and TypeScript.                                                                                                        
 
