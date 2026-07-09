@@ -12,15 +12,15 @@
 
   - **Tech Stack:** Next.js 16, React 19, TypeScript, MongoDB, Prisma, Ably, Tailwind CSS v4
   - **Live Demo:** [pointwise.dev](https://pointwise.dev/)
-  - **Repository:** [github.com/AmberCowled/pointwise](https://github.com/AmberCowled/pointwise)
+  - **Repository:** [github.com/ZackaryCowled/pointwise](https://github.com/ZackaryCowled/pointwise)
 
-  ### [ERTK](https://github.com/AmberCowled/ertk)
+  ### [ERTK](https://github.com/ZackaryCowled/ertk)
 
   TypeScript code generation tool that eliminates RTK Query and Next.js App Router boilerplate. Define endpoints once, get fully-typed API hooks, Redux store config, route
   handlers, and cache invalidation utilities generated automatically.
 
   - **Key Features:** Watch mode with smart rebuilds, Zod/Valibot/ArkType validation, declarative optimistic updates, pluggable auth
-  - **Repository:** [github.com/AmberCowled/ertk](https://github.com/AmberCowled/ertk)
+  - **Repository:** [github.com/ZackaryCowled/ertk](https://github.com/ZackaryCowled/ertk)
   - **Install:** `npm install ertk`
 
   ## 🛠️  Tech Stack
@@ -33,7 +33,7 @@
 
   ## 📫 Connect
 
-  📧 amber.cowled97@gmail.com | 🌐 [Portfolio](https://pointwise.dev/) | 💻 [GitHub](https://github.com/AmberCowled)
+  📧 zackary.cowled97@gmail.com | 🌐 [Portfolio](https://pointwise.dev/) | 💻 [GitHub](https://github.com/ZackaryCowled)
 
   ---
 
